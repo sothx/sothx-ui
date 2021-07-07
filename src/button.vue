@@ -15,7 +15,7 @@
   .s-button {
     font-size: var(--font-size);
     height: var(--button-height);
-    padding: 0 em;
+    padding: 0 1em;
     border-radius: var(--border-radius);
     border: 1px solid var(--border-color);
     background: var(--button-bg);
