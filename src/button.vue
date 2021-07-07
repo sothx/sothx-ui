@@ -11,7 +11,7 @@
   };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
   .s-button {
     font-size: var(--font-size);
     height: var(--button-height);
