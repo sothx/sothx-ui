@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sothx/sothx-ui/issues"
   },
-  "homepage": "https://github.com/sothx/sothx-ui#readme"
+  "homepage": "https://github.com/sothx/sothx-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
