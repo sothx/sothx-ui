@@ -1,0 +1,23 @@
+{
+  "name": "sothx-ui",
+  "version": "0.0.1",
+  "description": "一个基于vue.js的UI组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sothx/sothx-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "sothx",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/sothx/sothx-ui/issues"
+  },
+  "homepage": "https://github.com/sothx/sothx-ui#readme"
+}
